@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "./static/css/main.1ce1ac75.css",
+    "main.js": "./static/js/main.1851e20d.js",
+    "static/js/206.2e78320d.chunk.js": "./static/js/206.2e78320d.chunk.js",
+    "static/media/calendar_export_img.png": "./static/media/calendar_export_img.2a6f02e78d357c620533.png",
+    "static/media/elcano_logo_navyblue.png": "./static/media/elcano_logo_navyblue.1eb0b77c10423557152d.png",
+    "static/media/json_export_img.png": "./static/media/json_export_img.5012e8157cedaa7bc54a.png",
+    "static/media/elcano-qr-code.svg": "./static/media/elcano-qr-code.cf0cddb392f2df21dda14eae45d5fc10.svg",
+    "index.html": "./index.html",
+    "static/media/antd.less": "./static/media/antd.7affb7a1925b6ab47ea6.less"
+  },
+  "entrypoints": [
+    "static/css/main.1ce1ac75.css",
+    "static/js/main.1851e20d.js"
+  ]
+}
